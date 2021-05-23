@@ -18,11 +18,11 @@
 - [objection-soft-delete](https://github.com/griffinpp/objection-soft-delete)
 - [nodemon](https://www.npmjs.com/package/nodemon)
 
-## BUILD
+### BUILD
 - NPM Install
 - NPM start app.js
 
-## RESULT 
+### RESULT 
 
 ### Get All User 
 
