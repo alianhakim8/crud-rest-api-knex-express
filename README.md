@@ -2,7 +2,7 @@
 ### Layer Architecture
 
 <p align="center" width="100%">
-    <img width="100%%" src="https://github.com/Ilyasyasin072/rest-api-express/blob/main/Layers.png"> 
+    <img width="100%%" src="https://www.coreycleary.me/_next/static/media/Express-REST-API-Struc.aa7ecaa0c41dbb7344c70665a5f5e259.png"> 
 </p>
 ## REQUIREMENT LIBRARY
 
